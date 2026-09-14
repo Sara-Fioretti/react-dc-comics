@@ -3,7 +3,7 @@ function Navbar() {
         <nav className="navbar navbar-expand-lg bg-body-tertiary">
             <div className="container-fluid">
                 <a className="navbar-brand col-2" href="#">
-                    <img src="public/img/dc-logo.png" alt="Logo" width="60" height="48" class="d-inline-block align-text-top"></img>
+                    <img src="public/img/dc-logo.png" alt="Logo" width="60" height="48" className="d-inline-block align-text-top"></img>
                 </a>
                 <div className="collapse navbar-collapse col-10" id="navbarNav">
                     <ul className="navbar-nav">
