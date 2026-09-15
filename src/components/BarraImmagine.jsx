@@ -1,7 +1,15 @@
-function BarraImmagine(){
-    return(
-        <div className="p-5 bg-dark text-white">
-            -- Content goes here --
+function BarraImmagine() {
+    return (
+        <div
+            style={{
+                backgroundImage: "url('public/img/jumbotron.jpg')",
+                backgroundSize: "cover",
+                backgroundPosition: "center top",
+                backgroundRepeat: "no-repeat",
+                height: "200px",
+
+            }}>
+
         </div>
     )
 }

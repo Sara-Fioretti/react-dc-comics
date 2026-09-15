@@ -2,7 +2,7 @@ function NavIcone() {
     return (
         <div className=" p-3 container-fluid bg-primary">
             <div className="d-flex justify-content-center align-items-center flex-nowrap gap-4">
-                <div class=" d-flex align-items-center text-nowrap">
+                <div className=" d-flex align-items-center text-nowrap">
                     <img src="public/img/buy-comics-digital-comics.png" alt="digital comics" width="30" height="30"/>
                     <span className="text-white small">DIGITAL COMICS</span>
                 </div>
